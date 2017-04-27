@@ -1,0 +1,7 @@
+setup.py
+crackzip/__init__.py
+crackzip.egg-info/PKG-INFO
+crackzip.egg-info/SOURCES.txt
+crackzip.egg-info/dependency_links.txt
+crackzip.egg-info/entry_points.txt
+crackzip.egg-info/top_level.txt
